@@ -1,5 +1,5 @@
 ---
-id: doc1
+id: doc3
 title: Style Guide
 sidebar_label: Style Guide
 slug: /
