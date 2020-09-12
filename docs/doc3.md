@@ -1,14 +1,13 @@
 ---
-id: doc1
-title: Welcome to Aayush's Differential Equations Portfolio
-sidebar_label: Welcome
+id: doc3
+title: Style Guide
+sidebar_label: Style Guide
+slug: /
 ---
 
-**Defitions and Analysis are placed in the column of the left.**
+You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
-
-
-<!-- ## Markdown Syntax
+## Markdown Syntax
 
 To serve as an example page when styling markdown based Docusaurus sites.
 
@@ -201,4 +200,4 @@ This is a caution
 
 This is a warning
 
-::: -->
+:::
