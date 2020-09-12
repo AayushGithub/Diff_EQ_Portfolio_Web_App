@@ -1,6 +1,7 @@
 ---
 id: slope_field
 title: What is a slope field?
+sidebar_label: Slope Field
 ---
 
 
