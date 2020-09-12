@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Definitions: ['slope_field','doc1'],
+    Definitions: ['doc1','slope_field'],
     Analysis: ['mdx'],
   },
 };

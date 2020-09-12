@@ -16,8 +16,8 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
+          to: 'docs/welcome/',
+          activeBasePath: 'docs/welcome/',
           label: 'Portfolio',
           position: 'left',
         },
