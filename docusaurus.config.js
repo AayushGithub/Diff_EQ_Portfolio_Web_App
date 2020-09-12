@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Aayush Gandhi Diff EQ Portfolio',
   tagline: 'This is the portfolio for the class AS.110.302, Differential Equations and Applications, taught in the Fall semester of 2020.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://diffeqportfolio.netlify.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
