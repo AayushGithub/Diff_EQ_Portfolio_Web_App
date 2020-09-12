@@ -8,32 +8,34 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
+    title: 'BlackBoard does not support editing',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The Portfolio tool on blackboard allows you to create artifacts for
+        the portfolio, but it does not allow you to edit these! Hence, any mistake
+        (even small ones like commas) cannot be rectified
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'More Options for text/images',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        My personal portfolio web app allows me to add in additional features that
+        are absent on BlackBoard, such as LaTeX editing, Markdown Styling, Robust Images etc.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Practice my web dev skills',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        This website is created using React JS. I get to practice my web development skills.
+        It is not an extra burden, as the website uses the same text as my BlackBoard Portfolio, 
+        only with the aforementioned features.
       </>
     ),
   },
