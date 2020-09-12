@@ -75,7 +75,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/welcome/')}>
+              to={useBaseUrl('docs/doc1/')}>
               View Portfolio
             </Link>
           </div>
