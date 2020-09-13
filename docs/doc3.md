@@ -1,7 +1,6 @@
 ---
 id: doc1
 title: Welcome to Aayush's Differential Equations Portfolio
-sidebar_label: Welcome Page
 slug: /
 ---
 
