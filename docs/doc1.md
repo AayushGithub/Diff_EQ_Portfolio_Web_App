@@ -4,7 +4,7 @@ title: Welcome to Aayush's Differential Equations Portfolio
 sidebar_label: Welcome
 ---
 
-**Defitions and Analysis are placed in the column of the left.**
+**Definitions, Analysis, Theory and Applications are placed in the column of the left.**
 
 
 
@@ -12,7 +12,7 @@ sidebar_label: Welcome
 
 To serve as an example page when styling markdown based Docusaurus sites.
 
-## Headers
+## Headerss
 
 # H1 - Create the best documentation
 
