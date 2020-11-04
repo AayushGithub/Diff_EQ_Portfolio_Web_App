@@ -8,6 +8,18 @@ module.exports = {
   organizationName: 'AayushGithub', // Usually your GitHub org/user name.
   projectName: 'Diff_EQ_Portfolio_Web_App', // Usually your repo name.
   themeConfig: {
+    algolia: {
+      apiKey: '92386ac472106bd16bf3afe01cabca17',
+      indexName: 'diffeq',
+
+      // Optional: see doc section bellow
+      contextualSearch: true,
+
+      // Optional: Algolia search parameters
+      searchParameters: {},
+
+      //... other Algolia params
+    },
     navbar: {
       title: 'Home Page',
       logo: {
